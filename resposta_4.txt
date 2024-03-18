@@ -1,0 +1,7 @@
+Eu ligaria o primerio interruptor e deuxaria ligado por uns minutos.
+Depois disso, deligaria o primeiro e ligaria na mesma hora o segundo, iria
+até a sala das lâmpadas e verificaria se uma lâmpada estivesse acesa, caso
+estivesse, significaria que ela é controlada pelo segundo interruptor, se
+uma lâmpada estivesse apagada, porém quente, seignifica que é controlada
+pelo primeiro interruptor, se a terceira lâmpada estivesse desligada
+e fria, quer dizer que é do terceiro interruptor, pois eu não liguei ele.

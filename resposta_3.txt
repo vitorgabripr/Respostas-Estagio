@@ -1,0 +1,16 @@
+a- A primeira sequência é formada por números ímpares, 
+então o próximo elemento é 9.
+
+b- Na segunda cada elemento é o dobro do elemento anterior, o próximo número 
+é 128.
+
+c- Essa sequência é formada por quadrados perfeitos, o próximo número é 49.
+
+d- Esta também representa quadrados perfeitos, mas começando por 2^2,
+o próximo número é 100.
+
+e- Esta sequuência é a sequência de Fibonacci, onde cada elemento é a soma
+dos dois anteriores, o próximo número é 13.
+
+f- Esta aumenta em 8, depois em 2, depois 4 e depois em 1, o p´roximo número
+é 20.
